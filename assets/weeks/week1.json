@@ -1,0 +1,30 @@
+{
+	"storyName": "You're fired!",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"benson",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"fired",
+			"benson",
+			[
+				255,
+				235,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week 1"
+}
