@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Menu_Benson.png">
+	<!-- Created with Adobe Animate version 20.0.1.19255 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Menu_Benson0000" x="14" y="14" width="346" height="575"/>
+	<SubTexture name="Menu_Benson0001" x="370" y="14" width="346" height="575"/>
+	<SubTexture name="Menu_Benson0002" x="726" y="14" width="346" height="575"/>
+	<SubTexture name="Menu_Benson0003" x="1082" y="14" width="346" height="575"/>
+	<SubTexture name="Menu_Benson0004" x="1438" y="14" width="346" height="575"/>
+	<SubTexture name="Menu_Benson0005" x="1794" y="14" width="346" height="575"/>
+	<SubTexture name="Menu_Benson0006" x="2150" y="14" width="346" height="575"/>
+	<SubTexture name="Menu_Benson0007" x="2150" y="14" width="346" height="575"/>
+	<SubTexture name="Menu_Benson0008" x="2150" y="14" width="346" height="575"/>
+	<SubTexture name="Menu_Benson0009" x="2150" y="14" width="346" height="575"/>
+	<SubTexture name="Menu_Benson0010" x="2150" y="14" width="346" height="575"/>
+	<SubTexture name="Menu_Benson0011" x="2150" y="14" width="346" height="575"/>
+	<SubTexture name="Menu_Benson0012" x="2150" y="14" width="346" height="575"/>
+	<SubTexture name="Menu_Benson0013" x="2150" y="14" width="346" height="575"/>
+	<SubTexture name="Menu_Benson0014" x="2150" y="14" width="346" height="575"/>
+</TextureAtlas>

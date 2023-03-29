@@ -1,0 +1,10 @@
+{
+	"idle_anim": "Menu_Benson",
+	"image": "Menu_Benson",
+	"position": [
+		71,
+		106
+	],
+	"scale": 0.65,
+	"confirm_anim": "M Dad Idle"
+}
